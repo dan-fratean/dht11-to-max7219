@@ -7,6 +7,7 @@ Download and play with it (tested on python 2.7)
 
 Pre-requisites:
 
-```sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev
-sudo -H pip install --upgrade luma.led_matrix```
+`sudo apt-get install build-essential python-dev python-pip libfreetype6-dev libjpeg-dev`
+
+`sudo -H pip install --upgrade luma.led_matrix`
 
